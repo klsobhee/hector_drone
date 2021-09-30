@@ -37,7 +37,7 @@
 1. Aller dans le workspace</br>
 	cd ~/hector_kajal_jyotika_ws </br>
 
-2. Faire un git clone de https://github.com/klsobhee/hector_drone.git</br>
+2. Faire un git clone de https://github.com/klsobhee/hector_drone.git et copier le package kajal_jyotika_drone_control dans le repertoire src du workspace</br>
 
 3. Aller dans le répertoire src et extraire les fichiers récupérés de git</br>
 
